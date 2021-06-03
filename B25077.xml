@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation. James R. Whereas complaint hath been made to us by the postmaster general of this our kingdom of Ireland that divers abuses have been lately committed by several curriers, and others ryding post in this kingdom, ...</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25077</idno><idno type="EEBO-CITATION">99886403</idno>
+  <idno type="VID">186658</idno>
+  <idno type="EEBO-PROQUEST">2264215803</idno>
+  
+            <idno type="STC">Wing J291</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[83]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[93]</idno>
+            <idno type="STC">ESTC R225961</idno>
+            <idno type="PROQUEST">ocm99886403</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886403e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25077)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186658)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[83]; C23:1[93])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation. James R. Whereas complaint hath been made to us by the postmaster general of this our kingdom of Ireland that divers abuses have been lately committed by several curriers, and others ryding post in this kingdom, ...</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook the assign of Benjamin Took printer to the Kings most excellent Majesty and are to be sold at his Majesties printing-house on Ormonde Key.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title and opening lines of text.</note>
+                  <note>"Given at our court at our castle of Dublin the 30th day of November. 1689."</note>
+                  <note>Concerning the post and the conveyance of letters. Cf. Steele.</note>
+                  <note>Arms 189.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Postal service --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186658:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <p>
+                     <label>I R</label>
+                  </p>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <opener>
+               <signed>By The KING,</signed>
+            </opener>
+            <head>A PROCLAMATION.</head>
+            <opener>
+               <signed>JAMES R</signed>
+            </opener>
+            <p>VVHEREAS Complaint hath been made to Vs by the Postmaster General of this Our Kingdom of <hi>Ireland</hi> that divers abuses have been lately Committed by sever<g ref="char:EOLhyphen"/>al Curriers, and others Ryding Post in this Kingdom, and by some other persons who presume to open the Post-mails and Letters, and that several Post-masters have been disa<g ref="char:EOLhyphen"/>bled from keeping Horses and Servants sufficient for their purpose, by reason of their being burthen'd with Quartering of Soldiers, which if not remedied may prove a great hinderance to Our Service, and a great lestening of the profits of the Post Office; To prevent therefore the like mischiefs for the future, We have thought fit by the advice of Our Privy Council to Pub<g ref="char:EOLhyphen"/>lish and Declare that Our Will and Pleasure is, that no Post-master shall be oblidged to fur<g ref="char:EOLhyphen"/>nish any Horses for any person or persons whatsoever going from this Our City of <hi>Dublin</hi> to any other place of this Kingdom, unless such person or persons have a Warrant for that pur<g ref="char:EOLhyphen"/>pose sign'd by the Duke of Tyrconnell Captain General of Our Army, or by one of Our Secre<g ref="char:EOLhyphen"/>taryes, or to furnish any Horses for any person or persons whatsoever coming from any other part of this Kingdom to Our said City of <hi>Dublin,</hi> unless such person or persons have a Certifi<g ref="char:EOLhyphen"/>cate from the Governor or other Commander in chief of such Town or Port as he or they do come from, that They are imployed in carrying some Dispatches that relate to Our immediate Scrvice. And Our further Will and pleasure is, that all persons whatsoever who shall Ride Post within this Our Kingdom, shall pay at the rate of three pence sterling <hi>per</hi> Mile for every Horse they shall make use off, which sum they shall pay down at every Stage, before they take Horse, and that they and every of them (without the consent of the Owner) shall not Ride the Horses they take at one Stage any further then to the next Post Town where they shall leave them and their Bridles and Saddles with the Post master there, nor shall they nor any of them Ride any other way but the usual and accustomed Post Rode. And Our further will and plea<g ref="char:EOLhyphen"/>sure is, that no person or persons whatsoever shall presume to open any of the Post-mails or any Post-letters but such as shall be to them directed and delivered out by the several Post-masters appointed for that Service. And Our further Will and Pleasure is, that no Officer or Soldier, Horse, Foot, or Dragoone, shall be Quarter'd in the House of any Post-master who doth not keep a publick Inn or House of Entertainment; And that no person whatsoever do take or seize upon pre<g ref="char:EOLhyphen"/>tence of paying for it or otherwise, any Hay, Corn, or Straw, that such Post-masters shall keep for the use of any of their Post-horses; And where any such Post-masters do keep any publick Inns, and Stables, they or any of them shall not be over Burthened with the Quartering of Horse, or Dragoones, but every one of them shall be always left sufficient stable Roome and Forrage for the number of six Horses to be by them kept for the use of the Post. And We do hereby strictly Charge and Command all Our Officers Military and Civil, and all other Our loving Sub<g ref="char:EOLhyphen"/>jects whatsoever that they and every of them be Ayding and Assisting to the several Host-masters in the due execution of these presents, and do seize and apprehend all such persons as they shall finde Transgressing in the premisses, in Order to bring them to Iustice as disturbers of Our peace and Contemners of Our Royall Commands.</p>
+            <closer>
+               <dateline>Given at Our Court at Our Castle of <hi>Dublin</hi>
+                  <date>the 30th day of <hi>November.</hi> 1689. And in the Fifth Year of Our Reign.</date>
+               </dateline>
+            </closer>
+            <closer>GOD SAVE THE KING,</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Andrew Crook</hi> the assign of <hi>Benjamin Took</hi> Printer to the Kings Most Excellent Majesty and are to be Sold at his Majesties Printing-House on <hi>Ormond Key.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
